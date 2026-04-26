@@ -1,4 +1,4 @@
-Organ Transplantation: From Donation to Lifelong Care
+ORGAN TRANSPLANTATION: From Donation to Lifelong Care
 Abstract
 Organ transplantation is a life-saving medical procedure that replaces a failing or damaged organ with a healthy one from a donor. This paper explores the complete journey of organ transplantation, including donation, evaluation, surgical procedures, immune responses, and long-term care. It also highlights the benefits, challenges, and ethical considerations associated with transplantation. Advances in immunosuppressive therapy and surgical techniques have significantly improved survival rates and quality of life for recipients.
 1. Introduction
